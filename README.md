@@ -1,2 +1,0 @@
-# blueapps
-blueapps
